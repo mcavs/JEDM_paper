@@ -5,7 +5,7 @@ This repository consists of the supplemental materials of the paper "Rashomon ef
 
 | Task      | Step                                                 | Code    |
 | --------- |------------------------------------------------------| ------- |
-| binary    | importing the dataset                                | [](https://github.com/mcavs/JEDM_paper/blob/main/data_import.R)    |
+| binary    | importing the dataset                                | [:inbox_tray:](https://github.com/mcavs/JEDM_paper/blob/main/data_import.R)    |
 |           | pre-processing the dataset                           | [](https://github.com/mcavs/JEDM_paper/blob/main/process_for_binary.R)    |
 |           | creating model spaces for each course                | [](https://github.com/mcavs/JEDM_paper/blob/main/modeling_with_forester_for_binary.R)    |
 |           | determining Rashomon sets for each course            | [](https://github.com/mcavs/JEDM_paper/blob/main/rashomon_set_for_binary.R)    |
