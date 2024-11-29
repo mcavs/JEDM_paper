@@ -20,3 +20,14 @@ Table 1. The structure of the reproducibility way of the codes, input, and outpu
 |            | calculation of the VIOD of the Rashomon sets         | [kendall_for_multiclass.R](https://github.com/mcavs/JEDM_paper/blob/main/kendall_for_multiclass.R)                       |-|-|
 | both       | plot of distributions of the variable importance     | [boxplot.R](https://github.com/mcavs/JEDM_paper/blob/main/code/boxplot.R)                                                |-|[Figure 2]()|
 |            | plot of distributions of the VIOD                    | [distribution_plot.R](https://github.com/mcavs/JEDM_paper/blob/main/code/distribution_plot.R)                            |-|[Figure 3]()|
+
+## Data
+
+
+## Results
+
+Figure 2. Permutational variable importance distributions of the models for classifying the \texttt{final\_result}
+<img src="https://github.com/mcavs/JEDM_paper/blob/main/plot/Figure2.png" width="800">
+
+Figure 3. Variable Importance Order Similarity in the Rashomon set
+<img src="https://github.com/mcavs/JEDM_paper/blob/main/plot/Figure3.png" width="800">
