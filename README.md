@@ -18,3 +18,5 @@ This repository consists of the supplemental materials of the paper "Rashomon ef
 |            | explaining the variable importance for Rashomon sets | [explain_for_multiclass.R](https://github.com/mcavs/JEDM_paper/blob/main/explain_for_multiclass.R)    |
 |            | shaping the data from the previous step              | [make_longer_for_multiclass.R](https://github.com/mcavs/JEDM_paper/blob/main/make_longer_for_multiclass.R)    |
 |            | calculation of the VIOD of the Rashomon sets         | [kendall_for_multiclass.R](https://github.com/mcavs/JEDM_paper/blob/main/kendall_for_multiclass.R)    |
+| both       | plot of distributions of the variable importance     | [boxplot.R](https://github.com/mcavs/JEDM_paper/blob/main/code/boxplot.R) |
+|            | plot of distributions of the VIOD                    | [distribution_plot.R](https://github.com/mcavs/JEDM_paper/blob/main/code/distribution_plot.R) |
