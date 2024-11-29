@@ -2,7 +2,7 @@
 
 This repository consists of the supplemental materials of the paper "Rashomon effect in Educational Research: Why More is Better Than One for Measuring the Importance of the Variables?" which is submitted to [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM/index).
 
-## Table 1. The structure of the reproducibility way of the codes, input, and output for the tasks
+Table 1. The structure of the reproducibility way of the codes, input, and output for the tasks
 | Task       | Step                                                 | Code                                                                                                                     | Input                                                 | Output |
 | ---------- |------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------ |
 | both       | importing the dataset                                | [data_import.R](https://github.com/mcavs/JEDM_paper/blob/main/data_import.R)                                             | [:file_folder: data](https://github.com/mcavs/JEDM_paper/tree/main/data)|
