@@ -26,7 +26,7 @@ Table 1. The structure of the reproducibility way of the codes, input, and outpu
 
 ## Results
 
-Figure 2. Permutational variable importance distributions of the models for classifying the \texttt{final\_result}
+Figure 2. Permutational variable importance distributions of the models for classifying the final_result
 <img src="https://github.com/mcavs/JEDM_paper/blob/main/plot/Figure2.png" width="800">
 
 Figure 3. Variable Importance Order Similarity in the Rashomon set
