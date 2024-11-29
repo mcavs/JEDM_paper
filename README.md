@@ -5,17 +5,17 @@ This repository consists of the supplemental materials of the paper "Rashomon ef
 
 | Task      | Step                                                 | Code    |
 | --------- |------------------------------------------------------| ------- |
-| binary    | importing the dataset                                | []()    |
-|           | pre-processing the dataset                           | []()    |
-|           | creating model spaces for each course                | []()    |
-|           | determining Rashomon sets for each course            | []()    |
-|           | explaining the variable importance for Rashomon sets | []()    |
-|           | shaping the data from the previous step              | []()    |
-|           | calculation of the VIOD of the Rashomon sets         | []()    |
+| binary    | importing the dataset                                | [](https://github.com/mcavs/JEDM_paper/blob/main/data_import.R)    |
+|           | pre-processing the dataset                           | [](https://github.com/mcavs/JEDM_paper/blob/main/process_for_binary.R)    |
+|           | creating model spaces for each course                | [](https://github.com/mcavs/JEDM_paper/blob/main/modeling_with_forester_for_binary.R)    |
+|           | determining Rashomon sets for each course            | [](https://github.com/mcavs/JEDM_paper/blob/main/rashomon_set_for_binary.R)    |
+|           | explaining the variable importance for Rashomon sets | [](https://github.com/mcavs/JEDM_paper/blob/main/explain_for_binary.R)    |
+|           | shaping the data from the previous step              | [](https://github.com/mcavs/JEDM_paper/blob/main/make_longer_for_binary.R)    |
+|           | calculation of the VIOD of the Rashomon sets         | [](https://github.com/mcavs/JEDM_paper/blob/main/kendall_for_binary.R)    |
 | multiclass| importing the dataset                                | []()    |
-|           | pre-processing the dataset                           | []()    |
+|           | pre-processing the dataset                           | [](https://github.com/mcavs/JEDM_paper/blob/main/process_for_multiclass.R)    |
 |           | creating model spaces for each course                | []()    |
-|           | determining Rashomon sets for each course            | []()    |
-|           | explaining the variable importance for Rashomon sets | []()    |
-|           | shaping the data from the previous step              | []()    |
-|           | calculation of the VIOD of the Rashomon sets         | []()    |
+|           | determining Rashomon sets for each course            | [](https://github.com/mcavs/JEDM_paper/blob/main/rashomon_set_for_multiclass.R)    |
+|           | explaining the variable importance for Rashomon sets | [](https://github.com/mcavs/JEDM_paper/blob/main/explain_for_multiclass.R)    |
+|           | shaping the data from the previous step              | [](https://github.com/mcavs/JEDM_paper/blob/main/make_longer_for_multiclass.R)    |
+|           | calculation of the VIOD of the Rashomon sets         | [](https://github.com/mcavs/JEDM_paper/blob/main/kendall_for_multiclass.R)    |
