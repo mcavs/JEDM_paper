@@ -2,6 +2,13 @@
 
 This repository consists of the supplemental materials of the paper "Rashomon effect in Educational Research: Why More is Better Than One for Measuring the Importance of the Variables?" which is submitted to [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM/index).
 
+## Data
+
+## Experimental design
+<img src="https://github.com/mcavs/JEDM_paper/blob/main/design.png" width="800">
+
+## Code
+
 Table 1. The structure of the reproducibility way of the codes, input, and output for the tasks
 | Task       | Step                                                 | Code                                                                                                                     | Input                                                 | Output |
 | ---------- |------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------ |
@@ -21,7 +28,7 @@ Table 1. The structure of the reproducibility way of the codes, input, and outpu
 | both       | 8. plot of distributions of the variable importance     | [boxplot.R](https://github.com/mcavs/JEDM_paper/blob/main/code/boxplot.R)                                                |-|[Figure 2]()|
 |            | 9. plot of distributions of the VIOD                    | [distribution_plot.R](https://github.com/mcavs/JEDM_paper/blob/main/code/distribution_plot.R)                            |-|[Figure 3]()|
 
-## Data
+
 
 
 ## Results
