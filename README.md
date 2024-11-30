@@ -4,6 +4,17 @@ This repository consists of the supplemental materials of the paper "Rashomon ef
 
 ## Data
 
+| Variable              | Description                                                                                      | Value                                                                                                          |
+|-----------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| `age_band`           | A band of student’s age                                                                              | `{0-35, 35-55, 55+}`                                                                                               |
+| `disability`         | Whether the student has declared a disability                                                       | `{TRUE, FALSE}`                                                                                                    |
+| `education`          | The highest student education level on entry to the module presentation                             | `{Lower Than A Level, A Level or Equivalent, HE Qualification, Post Graduate Qualification}`                       |
+| `gender`             | Student’s gender                                                                                    | `F, M`                                                                                                             |
+| `imd_band`           | The IMD band of the place where the student lived during the module presentation                     | `{0-10%, 10-20%, 20-30%, 30-40%, 40-50%, 50-60%, 60-70%, 70-80%, 80-90%, 90-100%}`                                  |
+| `region`             | The geographic region where the student lived while taking the module presentation                  | `{East Anglian Region, East Midlands Region, Ireland, London Region, North Region, North Western Region, Scotland, South East Region, South Region, South West Region, Wales, West Midlands Region, Yorkshire Region}` |
+| `final_result`       |                                                                                                      | `{Pass, Fail}`                                                                                                     |
+
+
 ## Experimental design
 <img src="https://github.com/mcavs/JEDM_paper/blob/main/design.png" width="800">
 
