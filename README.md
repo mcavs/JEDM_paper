@@ -4,7 +4,7 @@ This repository consists of the supplemental materials of the paper "Rashomon ef
 
 ## Data
 
-| Variable              | Description                                                                                      | Value                                                                                                          |
+| Variable              | Description                                                                                      | Values                                                                                                          |
 |-----------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | `age_band`           | A band of student’s age                                                                              | `{0-35, 35-55, 55+}`                                                                                               |
 | `disability`         | Whether the student has declared a disability                                                       | `{TRUE, FALSE}`                                                                                                    |
